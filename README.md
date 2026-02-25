@@ -21,7 +21,7 @@
 
 [tspu-docs](https://github.com/DanielLavrushin/tspu-docs)
 
-Оглавление
+## Оглавление
 
 [1. Устройство интернета](Internet_s.md)
 
