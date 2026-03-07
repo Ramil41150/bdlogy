@@ -21,7 +21,7 @@
 
 [tspu-docs](https://github.com/DanielLavrushin/tspu-docs)
 
-[Интернет-протоколы — Белорусский гос. педагог. университет и. м. М. Танка] (http://phys.bspu.by/static/lib/inf/int/ie6/p2/index0.htm)
+[Интернет-протоколы — Белорусский гос. педагог. университет и. м. М. Танка (http://phys.bspu.by/static/lib/inf/int/ie6/p2/index0.htm)
 
 ## Оглавление
 
