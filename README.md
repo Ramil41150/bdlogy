@@ -27,8 +27,8 @@
 
 [1. Устройство интернета](Internet_s.md)
 
-[2. АСБИ: ТСПУ и т.д.](TMFBW.md)
+[2. Аргументы](Arguments.md)
 
-[3. Атака DPI](DPI-attack.md)
+[3. АСБИ: ТСПУ и т.д.](TMFBW.md)
 
-[4. Аргументы](Arguments.md)
+[4. Атака DPI](DPI-attack.md)
